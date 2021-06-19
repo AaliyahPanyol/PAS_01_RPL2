@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">PTSGENAP_RPL2_01</string>
+    <string name="forget"> Forget your account details? <b>Get help signing</b></string>
+    <string name="signup">
+        Don\'t have an account?  <b>Sign up</b> </string>
+
+    <string-array name="programming_languages">
+        <item>Babyezyy_</item>
+        <item>Mail2</item>
+        <item>Man3</item>
+        <item>Profile4</item>
+        <item>Soccer5</item>
+        <item>Teenager6</item>
+        <item>UserFour7</item>
+        <item>UserOne8</item>
+        <item>UserThree9</item>
+        <item>UserTwo10</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>bla bla bla</item>
+        <item>bla bla bla</item>
+        <item>bla bla bla</item>
+        <item>bla bla bla</item>
+        <item>bla bla bla</item>
+        <item>bla bla bla</item>
+        <item>bla bla bla</item>
+        <item>bla bla bla</item>
+        <item>bla bla bla</item>
+        <item>bla bla bla</item>
+    </string-array>
+
+</resources>
+
+
+
+
+
+
+
+
